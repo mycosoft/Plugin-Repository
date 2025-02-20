@@ -2,10 +2,16 @@
     "name": "MST Data Usage",
     "version": "1.0.0",
     "author": "Mycosoft Technologies",
-    "description": "Monitor online users and their data usage from Mikrotik router. Features include real-time data usage monitoring, user disconnection, and formatted data display.",
-    "url": "",
+    "description": "A powerful Mikrotik data usage monitoring plugin for PHPNuxBill. Track real-time data usage of hotspot users, view upload/download statistics, and manage user connections directly from your PHPNuxBill dashboard.",
+    "url": "https://github.com/mycosoft/mst-data-usage",
     "priority": 1,
     "status": "active",
     "compatible": "2.0.0",
+    "requires": {
+        "phpnuxbill": ">=2.0.0",
+        "php": ">=7.2.0"
+    },
+    "category": "network",
+    "screenshots": [],
     "last_update": "2024-02-20"
 }

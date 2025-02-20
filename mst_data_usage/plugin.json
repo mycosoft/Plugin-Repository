@@ -1,0 +1,11 @@
+{
+    "name": "MST Data Usage",
+    "version": "1.0.0",
+    "author": "Mycosoft Technologies",
+    "description": "Monitor online users and their data usage from Mikrotik router. Features include real-time data usage monitoring, user disconnection, and formatted data display.",
+    "url": "",
+    "priority": 1,
+    "status": "active",
+    "compatible": "2.0.0",
+    "last_update": "2024-02-20"
+}
